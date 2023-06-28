@@ -44,6 +44,4 @@ Pastikan Anda menggunakan alat ini hanya untuk tujuan pengujian yang sah dan tid
 
 Pastikan Anda memiliki versi Python yang sesuai dan menginstal semua modul yang diperlukan sebelum menggunakan alat ReQTest.
 
-Itu dia dokumentasi untuk alat ReQTest. Jika Anda memiliki pertanyaan lebih lanjut atau memerlukan bantuan, jangan ragu untuk bertanya.
-
 [saweria seikhlasnya](https://saweria.co/hadiani)
