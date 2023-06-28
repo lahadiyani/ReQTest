@@ -1,6 +1,6 @@
 ### ReQTest 
 
-
+[English Documentation](https://github.com/lahadiyani/ReQTest/blob/main/English.md)
 
 ## Deskripsi
 ReQTest adalah sebuah alat yang dirancang untuk melakukan pengujian keamanan dan performa terhadap sebuah website atau layanan dengan mengirimkan serangan flood menggunakan UDP dan mengirimkan request HTTP. Alat ini dapat membantu dalam mengidentifikasi kerentanan dan mengukur kinerja sistem.
