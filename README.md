@@ -10,6 +10,7 @@ Alat ReQTest memerlukan instalasi beberapa dependensi dan modul Python berikut:
 - Python 3.x
 - requests
 - colorama
+- Tor
 
 Anda dapat menginstal dependensi tersebut dengan menggunakan perintah berikut melalui pip:
 ```
