@@ -1,5 +1,3 @@
-Sure! Here's the documentation for the "ReQTest" tool:
-
 ## ReQTest
 
 ReQTest is a Python-based tool for sending HTTP requests to a target server and performing a UDP flood attack. It provides a simple command-line interface for users to specify the target URL, number of requests, maximum delay, victim IP address, target port, and flood attack duration.
