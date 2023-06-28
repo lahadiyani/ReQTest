@@ -1,11 +1,11 @@
-### ReQTest 
+### ReQTest 🕵️
 
 [English Documentation](https://github.com/lahadiyani/ReQTest/blob/main/English.md)
 
-## Deskripsi
+## Deskripsi 😄
 ReQTest adalah sebuah alat yang dirancang untuk melakukan pengujian keamanan dan performa terhadap sebuah website atau layanan dengan mengirimkan serangan flood menggunakan UDP dan mengirimkan request HTTP. Alat ini dapat membantu dalam mengidentifikasi kerentanan dan mengukur kinerja sistem.
 
-## Requirement
+## Requirement 😀
 Alat ReQTest memerlukan instalasi beberapa dependensi dan modul Python berikut:
 - Python 3.x
 - requests
@@ -16,7 +16,7 @@ Anda dapat menginstal dependensi tersebut dengan menggunakan perintah berikut me
 pip install requests colorama
 ```
 
-## Cara Penggunaan
+## Cara Penggunaan 😁
 Berikut adalah langkah-langkah untuk menggunakan alat ReQTest:
 
 1. Unduh kode sumber ReQTest dari repository GitHub.
@@ -36,7 +36,7 @@ Berikut adalah langkah-langkah untuk menggunakan alat ReQTest:
 
 Pastikan Anda menggunakan alat ini hanya untuk tujuan pengujian yang sah dan tidak melanggar hukum atau merugikan pihak lain. Jangan menguji website atau sistem yang tidak Anda miliki izin untuk diuji.
 
-## Alat yang Dibutuhkan
+## Alat yang Dibutuhkan 😅
 - Python 3.x: Interpreter bahasa Python yang digunakan untuk menjalankan alat ReQTest.
 - requests: Modul Python untuk mengirimkan request HTTP ke server target.
 - colorama: Modul Python untuk memberikan warna pada output konsol.
